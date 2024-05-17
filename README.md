@@ -8,4 +8,8 @@ I'm studying to be a **Full Stack Developer** based in Sweden. I love building t
 - 👯 I'm looking to collaborate on **open source projects** and interesting web applications.
 - 💬 Ask me about **web development, languages, or anything tech-related!**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/elena-hanna-1b0a971b7/)
-- ⚡ Fun fact: I speak **5 languages** fluently! #### Tech Stack: ```html HTML | CSS | JavaScript 
+- ⚡ Fun fact: I speak **5 languages** fluently!
+
+#### Tech Stack: 
+```html
+HTML | CSS | JavaScript
